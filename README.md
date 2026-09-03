@@ -35,3 +35,12 @@ potensi pengembangan koperasi.
 Dataset tersedia melalui Google Drive:
 
 [Dataset KDMP Banyumas](https://drive.google.com/drive/folders/1jqODWpnT3sTEt_QDPB6TioxzLWy3lKjY?usp=sharing)
+
+## Dashboard Interaktif
+
+Hasil analisis spasial dapat dijelajahi melalui dashboard Folium berikut:
+
+### [🌐 Buka Dashboard Spasial KDMP Banyumas](https://ferdinansilaen.github.io/Analisis_Spasial_KDMP_Banyumas/dashboard_goal1_folium.html)
+
+> Dashboard menampilkan visualisasi peta interaktif hasil analisis lokasi dan
+> rekomendasi pengembangan KDMP di Kabupaten Banyumas.
