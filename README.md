@@ -42,5 +42,4 @@ Hasil analisis spasial dapat dijelajahi melalui dashboard Folium berikut:
 
 ### [🌐 Buka Dashboard Spasial KDMP Banyumas](https://ferdinansilaen.github.io/Analisis_Spasial_KDMP_Banyumas/dashboard_goal1_folium.html)
 
-> Dashboard menampilkan visualisasi peta interaktif hasil analisis lokasi dan
-> rekomendasi pengembangan KDMP di Kabupaten Banyumas.
+> Dashboard menampilkan visualisasi peta interaktif hasil analisis lokasi dan rekomendasi pengembangan KDMP di Kabupaten Banyumas.
